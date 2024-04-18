@@ -1,0 +1,17 @@
+{
+  "name": "standalone-parser",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "beff": "beff -p beff.json",
+    "test": "vitest --run --update"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@beff/cli": "^0.0.8",
+    "vitest": "^0.34.4"
+  }
+}
